@@ -1,1 +1,3 @@
 myscrumy-env
+**/__pycache__
+**/*.sqlite3
