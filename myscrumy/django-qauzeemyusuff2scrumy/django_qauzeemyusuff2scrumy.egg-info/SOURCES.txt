@@ -1,0 +1,14 @@
+README.rst
+setup.py
+django_qauzeemyusuff2scrumy.egg-info/PKG-INFO
+django_qauzeemyusuff2scrumy.egg-info/SOURCES.txt
+django_qauzeemyusuff2scrumy.egg-info/dependency_links.txt
+django_qauzeemyusuff2scrumy.egg-info/top_level.txt
+qauzeemyusuff2scrumy/__init__.py
+qauzeemyusuff2scrumy/admin.py
+qauzeemyusuff2scrumy/apps.py
+qauzeemyusuff2scrumy/models.py
+qauzeemyusuff2scrumy/tests.py
+qauzeemyusuff2scrumy/urls.py
+qauzeemyusuff2scrumy/views.py
+qauzeemyusuff2scrumy/migrations/__init__.py

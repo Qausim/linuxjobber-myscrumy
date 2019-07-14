@@ -1,0 +1,47 @@
+Metadata-Version: 1.1
+Name: django-qauzeemyusuff2scrumy
+Version: 0.1
+Summary: A simple app required in the Linux Jobber internship.
+Home-page: https://www.example.com
+Author: Olawumi Yusuff
+Author-email: qauzeemyusuff2@gmail.com
+License: BSD license
+Description: ========================
+          qauzeemyusuff2scrumy
+        ========================
+        
+        qauzeemyusuff2scrumy is a simple Django app required to be created
+        in the current (July 2019) cohort of Linux Jobber internship.
+        
+        
+        Quick start
+        -----------
+        
+        1. Add "qauzeemyusuff2scrumy" to your INSTALLED_APPS in settings.py
+        file like this:
+        
+            INSTALLED_APPS = [
+              ...
+              "qauzeemyusuff2scrumy.apps.Qauzeemyusuff2ScrumyConfig",
+          ]
+        
+        2. Include the qauzeemyusuff2scrumy URLConf in your project's urls.py
+        file like this:
+        
+            path('qauzeemyusuff2scrumy', include('qauzeemyusuff2scrumy.urls')),
+          
+        3. Run 'python manage.py migrate' to create the qauzeemyusuff2scrumy models
+        
+        4. Start the development server and visit http://127.0.0.1:8000/qauzeemyusuff2scrumy
+           to visit the app index page.
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 2.2.3
+Classifier: Intended Audience :: Developers
+Classifier: Licence :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
