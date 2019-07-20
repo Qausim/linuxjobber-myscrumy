@@ -4,5 +4,6 @@ from . import views
 
 
 urlpatterns = [
-    path('', views.index),
+    path('', views.index, name='index'),
+    path('movegoal/<int:goal_id>/', views.move_goal, name='movegoal')
 ]
